@@ -1,3 +1,8 @@
+---
+permalink: /measure-cards/
+title: "Measure Cards Privacy Policy"
+---
+
 # Privacy Policy
 
 ## For Measure Cards iOS App

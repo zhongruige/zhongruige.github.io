@@ -1,3 +1,8 @@
+---
+permalink: /reps/
+title: "Reps Privacy Policy"
+---
+
 # Privacy Policy
 
 ## For Reps iOS App
